@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://canarios.com/sitemap.xml
+Sitemap: https://s0mething4saken.github.io/auditoriaTecnicaSEO/sitemap.xml
